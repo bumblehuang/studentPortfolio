@@ -1,4 +1,4 @@
-# studentPortfolio
+# cmustudent-portfolio
 This is a personal portfolio for Junfeng Huang for telling stories of Data course in CMU  
 
 # About Me
