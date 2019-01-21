@@ -10,3 +10,4 @@ I hope to generate insights from the data by learning some more abstract methodo
 
 # Portfolio
 
+Here is where all of my cool data visualizations will go.
