@@ -75,7 +75,7 @@ Here is where all of my cool data visualizations will go.
 
 ```
 First the beeswarm has the default linear color, and it is really hard to interpret 
-the different either from the perspective of time or the classification of the location.
+the different location either from the perspective of time or the classification of the location.
 Using black color is escpecially not helpful for the distinguishing the ratios.
 
 Later by exploring different kinds of charts, the best chart to represent the data that 
