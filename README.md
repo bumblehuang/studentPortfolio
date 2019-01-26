@@ -72,9 +72,10 @@ Here is where all of my cool data visualizations will go.
 
 
 ## The interpretation of the charts:
-
-First the beeswarm has the default linear color, and it is really hard to interpret the different either from the perspective of time or the classification of the location.Using black color is escpecially not helpful for the distinguishing the ratios.
+```
+**First the beeswarm has the default linear color, and it is really hard to interpret the different either from the perspective of time or the classification of the location.Using black color is escpecially not helpful for the distinguishing the ratios.
 
 Later by exploring different kinds of charts, the best chart to represent the data that can group them into location and time at the same time, is the circle packaging chart.This chart is perfectly classifying the data into Time-Location Hierarchy and would help people to know the general comparison in a specific year.I tried to use a time series chart to represent the time trend for each country, but it didn't went well as it doesn't have a label for each location.Thus, by setting very contrasting color the chart is outputing very clear view of the ratio in that year, in this Circle packaging.
 
-I have also displayed the Beeswarm version with the color assignment, which gets more helpful in representing the data.
+I have also displayed the Beeswarm version with the color assignment, which gets more helpful in representing the data.**
+```
