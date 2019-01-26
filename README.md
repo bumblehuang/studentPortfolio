@@ -12,16 +12,8 @@ I hope to generate insights from the data by learning some more abstract methodo
 
 Here is where all of my cool data visualizations will go.
 
-`<html>`
-<html lang="en">
+# demo visualization
 
-<head>
-</head>
-
-<body>
-    <header>
-<iframe src="https://data.oecd.org/chart/5s21" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5s21" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe></header></body>
-</html>
-```
+<iframe src="https://data.oecd.org/chart/5s21" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5s21" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
