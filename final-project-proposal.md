@@ -65,3 +65,12 @@ https://www.kaggle.com/karangadiya/fifa19/version/4
 
 This is gained from the kaggle and Fifa is authoritative in collecting the soccer players data.
 
+
+## Method and Medium
+
+The method used is in the shorthand, which my tool for the data visualization and the medium for telling this story.
+
+I would try best to generate insights by the visulization of the players and leagues data and let audience to have a straightfoward instinct.And also explanation with words would be supportive in this project.
+
+
+
