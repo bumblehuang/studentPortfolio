@@ -100,16 +100,16 @@ and hence the distribution of top players and technical performance.
 The monery spent on the transfer along with the technical indicators like total goals is also functional statistics indicator for league competiveness.
 
 
-## User Research
+# User Research
 
 
-# 1. Target Audience
+## 1. Target Audience
 
 The people who don't know about soccer, simply outsider.
 The investors who are planing to invest on the euro mainstream leagus teams, willing to know about the general trend in the soccer world.
 Economic Scholars in areas of sports business.
 
-# 2. Interview Scripts
+## 2. Interview Scripts
 
 How much do you know about soccer?
 
@@ -138,14 +138,14 @@ What part should be improved or incremented in portion?
 A. The relationship in finance factor with soccer profession.Maybe more data related would be better.
 B. Enough for now.
 
-# Audience feedback
+## Audience feedback
 
 Yes this is a very abstract topic, I try to introduce a general view of the soccer world and also let them know about the performance of soccer is related to the money,which is the two main goals in this project.
 1.It is hard to make it thorough, the interviewee would say they still would feel to be in a intriductory story rather than a insightful story.So I think more direct charts to show the second topic would be better.
 2. Charts looks good, logic is clear.
 3. More information needed to show that competiveness relates to the money.
 
-# Modification
+## Modification
 
 I try to research more data about the monetary factor in the soccer industry, and I think to add up the budget and the transfer ranking would be supportive.
 
@@ -153,3 +153,4 @@ I add up more types of charts to show different perspecitve of the data visualiz
 
 I would adjust the logical walk through for the story, make it more logical and easier to understand.
 
+## Wireframe attached in the repository.
