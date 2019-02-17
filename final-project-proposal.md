@@ -72,5 +72,84 @@ The method used is in the shorthand, which my tool for the data visualization an
 
 I would try best to generate insights by the visulization of the players and leagues data and let audience to have a straightfoward instinct.And also explanation with words would be supportive in this project.
 
+## Incentive and main goal of this project:
 
+This project have two main goals, let the audience have general knowledge of the soccer world and know how money drives the soccer industry.We would not have thorough industrial analysis on this relationship, yet we can tell from the data visualization that better players are more valued, and more budget or more financial support is more competitive for a league.This is a two-way causal realtionship and here starts the story.
+
+One important clue for this analytic story is money.  The monetary value of individual player, the money each league spend on the team building and transfering, are great support or good reflection of the competitiveness of these entities.
+ 
+Eventually we are going to generate insightful analysis about how money or value relates to all factors in this industry and the predictive trend in terms of our conclusion in competitiveness analysis of each entity in this soccer world, players, teams or leagues.
+
+From a shallow point that we want to probe into the soccer world, to have a quick review of who are the best ones and outstanding in this industry, simply looking at the most expensive players.Seeing the graph of the individual value ranking we have general knowledge of the top players list : Ronaldo , Messi ,Neymar  .... these are supporting material we can conclude that as they show up in different ranking.
+
+As we want to have more insightful knowledge about what value individuals can output in terms of soccer profession, here is some good graphs to generate insights.
+ 
+The distribution for top players in terms of positions , most of them are midfielder and forward..... 
+ 
+The ranking of assists and goals, we select the top players in thes ranking and generally know who they are and why they can correspond to the value ranking.
+ 
+ The better technical performance would lead to higher personal value and market impact.
+
+And getting to know about the general knowledge of top players Distributiton ----- a good indicator of the league competitiveness, we can summarize their distribution within different mainstream leagues, which comes to the second part of our analysis, the league competiveness.
+
+In the second part we would compare the distribution of the top players along with some technical analysis reagrding the performance statistics, total goals, assists, and so on.
+ 
+The Leagues are having great competiveness when they are suported by great budget, 
+and hence the distribution of top players and technical performance.
+ 
+The monery spent on the transfer along with the technical indicators like total goals is also functional statistics indicator for league competiveness.
+
+
+## User Research
+
+
+# 1. Target Audience
+
+The people who don't know about soccer, simply outsider.
+The investors who are planing to invest on the euro mainstream leagus teams, willing to know about the general trend in the soccer world.
+Economic Scholars in areas of sports business.
+
+# 2. Interview Scripts
+
+How much do you know about soccer?
+
+A. Nothing
+B. Intermediate. Just know about who is Messi or Ronaldo.
+C. Great fans.Almost everything.
+
+Do you think this story is clear in topic?
+
+A. Yes it is pointing out the relationship between market value and financial and also the general introduction of soccer, reagrding players and leagues.
+
+B. No.Ambiguous.
+
+Does the visualization present thorough message on the story?
+
+A. Yes, I can know better players are more expensive and league with great budget have more competiveness.
+B. No, totally messy.
+
+Do you expect anythin else from the visualization?
+
+A. No.
+B. More various types of charts would be better.
+
+What part should be improved or incremented in portion?
+
+A. The relationship in finance factor with soccer profession.Maybe more data related would be better.
+B. Enough for now.
+
+# Audience feedback
+
+Yes this is a very abstract topic, I try to introduce a general view of the soccer world and also let them know about the performance of soccer is related to the money,which is the two main goals in this project.
+1.It is hard to make it thorough, the interviewee would say they still would feel to be in a intriductory story rather than a insightful story.So I think more direct charts to show the second topic would be better.
+2. Charts looks good, logic is clear.
+3. More information needed to show that competiveness relates to the money.
+
+# Modification
+
+I try to research more data about the monetary factor in the soccer industry, and I think to add up the budget and the transfer ranking would be supportive.
+
+I add up more types of charts to show different perspecitve of the data visualization.
+
+I would adjust the logical walk through for the story, make it more logical and easier to understand.
 
