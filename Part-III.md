@@ -54,14 +54,33 @@ I would try best to generate insights by the visulization of the players and lea
 ## 1. Target Audience
 
 The people who don't know about soccer, simply outsider.
+
+Persona:
+
+https://www.hubspot.com/make-my-persona?persona=-LZW0rMQr_kErHvjvDL5
+
 The investors who are planing to invest on the euro mainstream leagus teams, willing to know about the general trend in the soccer world.
+Persona:
+
+https://www.hubspot.com/make-my-persona?persona=-LZVsVkGUnjW6z-lGSld
+
+
 Economic Scholars in areas of sports business.
+Persona:
+
+https://www.hubspot.com/make-my-persona?persona=-LZW0MDx-303OrzSjgIU
+
+
 
 ## 2. Interview Research
 
-Interviewee One : Chen Si who knows a little bit about soccer.
-Interviewee Two : Zhang Jun who knows nothing at all.
-Interviewee Three: Shenshi hao who knows quite a lot about soccer.
+Interviewee One : Chen Si who knows a little bit about soccer. Persona--- An economic scholar who specialize in sports business and sports economics.
+
+
+Interviewee Two : Zhang Jun who knows nothing at all. --- Simply an outsider who is invited to get some general knowledge about soccer.
+
+
+Interviewee Three: Shenshi hao who knows quite a lot about soccer. --- An investor who is willing to invest in a soccer team and any relevant product in the soccer industry.
 
 How much do you know about soccer?
 
